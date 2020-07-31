@@ -185,6 +185,7 @@ a:hover {
 	margin: 0px;
 	cursor: pointer;
 	font-family: "Ubuntu", sans-serif;
+	outline: none;
 }
 
 /*MODAL CLOSE BUTTON*/
@@ -193,7 +194,6 @@ a:hover {
   float: right;
   font-size: 28px;
   font-weight: bold;
-  outline: none;
 }
 
 .close:hover,
