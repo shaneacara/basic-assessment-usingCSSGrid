@@ -193,6 +193,7 @@ a:hover {
   float: right;
   font-size: 28px;
   font-weight: bold;
+  outline: none;
 }
 
 .close:hover,
